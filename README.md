@@ -42,4 +42,4 @@
 | Тюрин Рамин                        | Front-end Developer, dlg.im             |
 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
 | Самохвалов Павел                   | Developer                               |
-
+| Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
