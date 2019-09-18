@@ -43,3 +43,6 @@
 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
 | Самохвалов Павел                   | Developer                               |
 | Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
+| Елизавета Боржкова                 | Business Analyst                        |
+| Соковых Пётр                       | фрилансер                               |
+| Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
